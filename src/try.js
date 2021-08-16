@@ -7,3 +7,4 @@ console.log(a);
 
 console.log(a.has(4));
 console.log(a.has(3));
+console.log(12);
