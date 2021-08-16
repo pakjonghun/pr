@@ -1,2 +1,3 @@
 let id = Symbol();
-console.log(id);
+console.log(12);
+console.log(12);
