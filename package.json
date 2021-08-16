@@ -1,0 +1,22 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "try.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-node": "^0.0.1-security",
+    "jest": "^27.0.6",
+    "mock-fs": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0"
+  }
+}
